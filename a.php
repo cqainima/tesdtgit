@@ -1,3 +1,3 @@
 <?php
-echo "hello1112222撒大苏打";
+echo "hello1112222nihao";
 ?>
